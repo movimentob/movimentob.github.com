@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    
+    <title>movimento₿</title>
+    
+    
+    <description>This website is a virtual proof that I&apos;m awesome</description>
+    
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    
+    
+      <item>
+        <title>O que é um SAT</title>
+        <description>
+          Uma Bitcoin pode ser dividida em 100 Milhões de partes, chamadas SAT - 
+          Quando olhas para o preço da Bitcoin, pode-te parecer que não tens dinheiro para comprar uma Bitcoin, no entanto podes comprar apenas 0.00000001 Bitcoin. Uma Bitcoin pode ser dividida em 100 Milhões de partes, cada parte chamada de “SAT” - do nome do(s) autor(es) da Bitcoin, Satoshi Nakamoto. Então: 1...
+        </description>
+        <pubDate>Sun, 21 Mar 2021 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/2021-03-21-o-que-e-um-SAT/</link>
+        <guid isPermaLink="true">http://localhost:4000/2021-03-21-o-que-e-um-SAT/</guid>
+      </item>
+    
+      <item>
+        <title>Comprar Bitcoin na corretora Binance</title>
+        <description>
+          A maneira mais fácil de comprares a tua primeira Bitcoin. - 
+          Nem que sejam apenas uns metros quadrados de terreno, todos temos esse direito, no entanto somos responsáveis por exercer os nossos direitos. Ver o meu artigo sobre “comprar Bitcoin e comprar Terreno” O mesmo para a Bitcoin, nem que sejam apenas uns SATs (1 SAT = 0,000000001 BTC). Ver o...
+        </description>
+        <pubDate>Sun, 21 Mar 2021 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/2021-03-21-comprar-bitcoin-binance/</link>
+        <guid isPermaLink="true">http://localhost:4000/2021-03-21-comprar-bitcoin-binance/</guid>
+      </item>
+    
+      <item>
+        <title>Comprar Bitcoin como comprar bens imobiliários</title>
+        <description>
+          Uma Experiência de Pensamento - A escassez de terreno utilizável e a escassez da Bitcoin utilizável - 
+          “Compre terreno, já não se faz mais disso ” Mark Twain A realidade é que os humanos podem fazer mais terreno se quiserem, construindo ilhas. Dubai é um exemplo perfeito. Mas o princípio ainda é válido. A oferta de terrenos é essencialmente limitada. Essa escassez é a razão pela qual...
+        </description>
+        <pubDate>Sun, 21 Mar 2021 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/2021-03-21-Bitcoin-como-bens-imobiliarios/</link>
+        <guid isPermaLink="true">http://localhost:4000/2021-03-21-Bitcoin-como-bens-imobiliarios/</guid>
+      </item>
+    
+      <item>
+        <title>Como guardar Bitcoin e Criptomoedas</title>
+        <description>
+          Algumas maneiras de guardar as tuas Bitcoins e outras criptomoedas - 
+          A Bitcoin pode ser vista como o Ouro, mas com a vantagem que o podemos guardar num computador ou até num simples papel. Imagina que comprar duas barras de ouro que eventualmente queres deixar aos teus netos. Vais ter de as guardar em algum lado, fora do alcance de usurpadores...
+        </description>
+        <pubDate>Wed, 17 Mar 2021 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/2021-03-17-como-guardar-bitcoin/</link>
+        <guid isPermaLink="true">http://localhost:4000/2021-03-17-como-guardar-bitcoin/</guid>
+      </item>
+    
+      <item>
+        <title>O que é Bitcoin</title>
+        <description>
+          Uma simples explicação porque é que Bitcoin é a Arca de Noé para fortunas, grandes ou pequenas. - 
+          Bitcoin (₿) é uma criptomoeda inventada em 2008 por uma pessoa ou grupo de pessoas desconhecidas usando o pseudônimo Satoshi Nakamoto. Ver na wikipedia aqui. A moeda começou a ser usada em 2009 quando sua implementação foi lançada como software de código aberto. Isto quer dizer que qualquer pessoa pode...
+        </description>
+        <pubDate>Tue, 16 Mar 2021 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/2021-03-16-o-que-e-bitcoin/</link>
+        <guid isPermaLink="true">http://localhost:4000/2021-03-16-o-que-e-bitcoin/</guid>
+      </item>
+    
+  </channel>
+</rss>
